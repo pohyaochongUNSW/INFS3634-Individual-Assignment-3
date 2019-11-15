@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+
+    <string name="breed">Breed</string>
+    <string name="description">Description</string>
+    <string name="catImage">Cat Image</string>
+    <string name="weight">Weight</string>
+    <string name="weight_imperial"> - Imperial</string>
+    <string name="weight_metric"> - Metric</string>
+    <string name="temperament">Temperament</string>
+    <string name="origin">Origin</string>
+    <string name="life_span">Life Span</string>
+    <string name="friendliness_level">Friendliness Level</string>
+    <string name="child_friendly"> - Child Friendly Level</string>
+    <string name="dog_friendly"> - Dog Friendly Level</string>
+    <string name="stranger_friendly"> - Stranger Friendly Level</string>
+    <string name="wikipedia_link">Wikipedia</string>
+
+    <string name="searching">Searching…</string>
+    <string name="no_favourite">No Favourite Cat</string>
+    <string name="favourite_notice">No Cat was added in the list.\nSearch some cat and add them in the list :)</string>
+</resources>
